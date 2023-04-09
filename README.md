@@ -1,4 +1,4 @@
-# AI-Factory
+# 🎯 AI-Factory
 - submit code for AI Factory challenge(unsupervised learning)
 - Isolation Forest, Autoencoder
 
